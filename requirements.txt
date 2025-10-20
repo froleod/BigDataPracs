@@ -27,3 +27,13 @@ typing_extensions==4.13.2
 tzdata==2025.2
 umap-learn==0.5.9.post2
 zipp==3.23.0
+
+future~=0.18.2
+pip~=21.2.4
+umap~=0.1.1
+setuptools~=58.0.4
+patsy~=1.0.1
+seaborn~=0.13.2
+statsmodels~=0.14.5
+importlib-resources~=6.5.2
+wheel~=0.37.0
